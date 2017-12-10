@@ -1,5 +1,7 @@
 # ChoPy
 
+[![PyPI](https://img.shields.io/pypi/v/ChoPy.svg?style=flat-square)]()
+
 Goal: Swiss Army knife for coder-musicians.
 
 ## Current Todo
